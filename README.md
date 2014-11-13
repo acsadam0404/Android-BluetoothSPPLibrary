@@ -1,3 +1,7 @@
+
+It's a fork and not production ready. Please visit the main repository: akexorcist/Android-BluetoothSPPLibrary
+
+
 Android-BluetoothSPPLibrary
 ===========================
 
